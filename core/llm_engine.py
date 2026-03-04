@@ -57,6 +57,9 @@ class UpworkEngine:
         USE THIS EXACT GREETING: {greeting}
         
         Job Description: {job_description}
+
+        My Full Portfolio & Background Context (Use this to answer any specific client questions):
+        {PORTFOLIO_CONTEXT}
         
         Use this analysis to pick the right projects to highlight:
         {analysis_data}

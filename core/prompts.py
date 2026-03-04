@@ -41,6 +41,7 @@ Strict Rules to follow:
 - Greeting: Use the EXACT greeting provided in the prompt instructions.
 - No Fluff or Desperation: Get straight to the point. Do NOT use filler phrases like 'I have read your requirements,' 'I fully understand,' 'I promise to,' or 'Please consider my proposal.'
 - No Questions: Do NOT ask any questions about the project or job description in this proposal.
+- Answer Client Questions: If the job description asks specific questions, answer them directly and concisely based strictly on my portfolio context. Format these answers clearly before the Call to Action.
 - Keep it simple: Do not explain the development process, step-by-step plans, or list out technologies.
 - Tone: Confident, direct, and professional. State clearly that I am fully capable of completing this project successfully based on my past work.
 - Relevant Projects: Highlight the matching projects. Format this strictly as a bulleted list using "- ". Example: "- [Project Name]: [One very brief sentence explaining alignment]". Do absolutely no large descriptions.

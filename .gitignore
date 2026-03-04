@@ -1,0 +1,24 @@
+venv
+
+# Secrets (CRITICAL)
+.env
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# Logs & State
+logs/
+state.json
+*.log
+
+# IDE Settings
+.vscode/
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db

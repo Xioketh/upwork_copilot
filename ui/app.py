@@ -17,7 +17,7 @@ def get_engine():
 engine = get_engine()
 
 def render_ui():
-    st.set_page_config(page_title="Upwork Copilot", layout="wide")
+    st.set_page_config(page_title="Copilot", layout="wide")
     st.title("Copilot")
 
     # Session State Management

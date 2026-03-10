@@ -6,8 +6,8 @@ My Portfolio Projects (Categorized):
 [AI AGENTS & LLM ENGINEERING]
 1. OpsVoice: Real-time VoiceOps assistant. Tech: Gemini Multimodal Live API, WebSockets, Python. Value: Sub-500ms latency voice-to-server infrastructure control and JSON UI updates. Loom Video: https://www.loom.com/share/8d4c33d6254740b4b7a5ea8ffa48958d
 2. The Concierge: Autonomous MCP AI Agent. Tech: Next.js 15, Vercel AI SDK, Node.js, SQLite, Zod. Value: Hallucination-free database operations, strict schema validation, and generative UI for bookings. Loom Video: https://www.loom.com/share/1e3c08b904664aa8aee59527c7be1095
-3. InsightNode: Agentic GraphRAG Engine. Tech: Next.js 14, Neo4j, LangGraph, Ollama. Value: Converts text into 3D knowledge graphs. Loom Video: [INSERT_LOOM_LINK_HERE]
-4. The Echo Directive: VoiceOps 3D Game AI. Tech: Godot 4, LangGraph, Python FastAPI, WebSockets. Value: Replaces NPC logic with autonomous agent reasoning. Loom Video: [INSERT_LOOM_LINK_HERE]
+3. InsightNode: Agentic GraphRAG Engine. Tech: Next.js 14, Neo4j, LangGraph, Ollama. Value: Converts text into 3D knowledge graphs.
+4. The Echo Directive: VoiceOps 3D Game AI. Tech: Godot 4, LangGraph, Python FastAPI, WebSockets. Value: Replaces NPC logic with autonomous agent reasoning.
 
 [FULL-STACK SAAS & WEB]
 5. ContentFodge: AI Content SaaS. Tech: Gemini 2.0 Flash, Streamlit, YouTube API. Value: Automated transcription and ghostwriting of YouTube videos into viral blogs.

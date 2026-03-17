@@ -8,22 +8,23 @@ My Portfolio Projects (Categorized):
 2. The Concierge: Autonomous MCP AI Agent. Tech: Next.js 15, Vercel AI SDK, Node.js, SQLite, Zod. Value: Hallucination-free database operations, strict schema validation, and generative UI for bookings. Loom Video: https://www.loom.com/share/1e3c08b904664aa8aee59527c7be1095
 3. InsightNode: Agentic GraphRAG Engine. Tech: Next.js 14, Neo4j, LangGraph, Ollama. Value: Converts text into 3D knowledge graphs.
 4. The Echo Directive: VoiceOps 3D Game AI. Tech: Godot 4, LangGraph, Python FastAPI, WebSockets. Value: Replaces NPC logic with autonomous agent reasoning.
+5. OmniReel: Autonomous AI Video Pipeline. Tech: Node.js, n8n, FFmpeg, Docker, BullMQ, Gemini, ElevenLabs. Value: Headless orchestration converting a Telegram prompt into a fully generated, programmatically animated (Ken Burns) cinematic vertical video. Loom Video: https://www.loom.com/share/167b205f6e454627a201181f1bda3527
 
 [FULL-STACK SAAS & WEB]
-5. ContentFodge: AI Content SaaS. Tech: Gemini 2.0 Flash, Streamlit, YouTube API. Value: Automated transcription and ghostwriting of YouTube videos into viral blogs.
-6. wristTrade: iOS-First Trading PWA. Tech: Next.js, Tailwind, Binance WebSockets. Value: Sub-second live crypto price streaming.
-7. Mentora-AI: Career Guidance SaaS. Tech: Next.js, Python FastAPI, Machine Learning. Value: End-to-end platform predicting optimal career paths.
+6. ContentFodge: AI Content SaaS. Tech: Gemini 2.0 Flash, Streamlit, YouTube API. Value: Automated transcription and ghostwriting of YouTube videos into viral blogs.
+7. wristTrade: iOS-First Trading PWA. Tech: Next.js, Tailwind, Binance WebSockets. Value: Sub-second live crypto price streaming.
+8. Mentora-AI: Career Guidance SaaS. Tech: Next.js, Python FastAPI, Machine Learning. Value: End-to-end platform predicting optimal career paths.
 
 [AUTOMATION & DATA ENGINEERING]
-8. GhostCrawler: Stealth Web Scraper. Tech: Python, FastAPI, SeleniumBase. Value: Bypasses Cloudflare Turnstile and secure logins to extract 100% accurate data to Excel. Loom Video: https://www.loom.com/share/a8225a67759a4afa920bdc9e5ea13e89
-9. WhatsApp CRM: 2-Way Sheet Automation. Tech: Python, Node.js, n8n, Google Sheets, Meta API. Value: Cost-free, bidirectional WhatsApp CRM. Loom Video: https://www.loom.com/share/6a04dde30f9c46afa9fd0a518643baf8
-10. AutoLedger: Financial Automation. Tech: Python, Pandas, Streamlit. Value: Processes raw CSVs to auto-generate Excel reports with dynamic charts. Loom Video: https://www.loom.com/share/21a9f2d155cf4f0a8a5aac00517b162b
-11. Bet365 Scraper: High-Security Data Extraction. Tech: Python, SeleniumBase UC Mode, WebGL Spoofing. Value: Bypasses infinite loading spinners using hardware-level clicks and positional parsing.
-12. Lead Generation B2B: High-Security Data Extraction. Tech: Python, Playwright. Value: Loading cluth.co & google maps directories to fetch businesses and visit actual website using stealth browser to fetch professional email. Loom Video: https://www.loom.com/share/d6cba826b0204f6f982c90cae87c0a77
+9. GhostCrawler: Stealth Web Scraper. Tech: Python, FastAPI, SeleniumBase. Value: Bypasses Cloudflare Turnstile and secure logins to extract 100% accurate data to Excel. Loom Video: https://www.loom.com/share/a8225a67759a4afa920bdc9e5ea13e89
+10. WhatsApp CRM: 2-Way Sheet Automation. Tech: Python, Node.js, n8n, Google Sheets, Meta API. Value: Cost-free, bidirectional WhatsApp CRM. Loom Video: https://www.loom.com/share/6a04dde30f9c46afa9fd0a518643baf8
+11. AutoLedger: Financial Automation. Tech: Python, Pandas, Streamlit. Value: Processes raw CSVs to auto-generate Excel reports with dynamic charts. Loom Video: https://www.loom.com/share/21a9f2d155cf4f0a8a5aac00517b162b
+12. Bet365 Scraper: High-Security Data Extraction. Tech: Python, SeleniumBase UC Mode, WebGL Spoofing. Value: Bypasses infinite loading spinners using hardware-level clicks and positional parsing.
+13. lead-scraper-pro: Automated B2B Lead Pipeline. Tech: Python, Playwright stealth, Regex, n8n. Value: Deduplicates multi-source leads, performs deep-site stealth enrichment for emails, and automatically pipes data to Google Sheets via n8n webhook. Loom Video: https://www.loom.com/share/dc042442dd5f495bb4c84d296e2cdb38
 
 [COMPUTER VISION & RAG]
-13. Real-Time Video Analytics: Object Tracking. Tech: YOLOv9, Deep SORT. Value: Live traffic and vehicle object detection.
-14. EquityLense: FinTech RAG Dashboard. Tech: Python, Streamlit. Value: PDF extraction to automatically calculate complex financial metrics (EPS, NVPS). Loom Video: https://www.loom.com/share/72c106516ac0411692358ae7b4fd083e
+14. Real-Time Video Analytics: Object Tracking. Tech: YOLOv9, Deep SORT. Value: Live traffic and vehicle object detection.
+15. EquityLense: FinTech RAG Dashboard. Tech: Python, Streamlit. Value: PDF extraction to automatically calculate complex financial metrics (EPS, NVPS). Loom Video: https://www.loom.com/share/72c106516ac0411692358ae7b4fd083e
 """
 
 JOB_ANALYZE_DETAILS = """

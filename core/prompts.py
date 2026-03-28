@@ -21,10 +21,11 @@ My Portfolio Projects (Categorized):
 11. AutoLedger: Financial Automation. Tech: Python, Pandas, Streamlit. Value: Processes raw CSVs to auto-generate Excel reports with dynamic charts. Loom Video: https://www.loom.com/share/21a9f2d155cf4f0a8a5aac00517b162b
 12. Bet365 Scraper: High-Security Data Extraction. Tech: Python, SeleniumBase UC Mode, WebGL Spoofing. Value: Bypasses infinite loading spinners using hardware-level clicks and positional parsing.
 13. lead-scraper-pro: Automated B2B Lead Pipeline. Tech: Python, Playwright stealth, Regex, n8n. Value: Deduplicates multi-source leads, performs deep-site stealth enrichment for emails, and automatically pipes data to Google Sheets via n8n webhook. Loom Video: https://www.loom.com/share/dc042442dd5f495bb4c84d296e2cdb38
+14. MailForge: AI-Powered Workspace Copilot. Tech: Google Apps Script (GAS), Gemini API, Tailwind, Gmail/Sheets API. Value: Serverless extension with a custom UI that batch-processes scraped leads to auto-generate highly personalized cold email drafts natively in Gmail. Loom Video: https://www.loom.com/share/ebaf364939c642da8507f8e18eab9ee6
 
 [COMPUTER VISION & RAG]
-14. Real-Time Video Analytics: Object Tracking. Tech: YOLOv9, Deep SORT. Value: Live traffic and vehicle object detection.
-15. EquityLense: FinTech RAG Dashboard. Tech: Python, Streamlit. Value: PDF extraction to automatically calculate complex financial metrics (EPS, NVPS). Loom Video: https://www.loom.com/share/72c106516ac0411692358ae7b4fd083e
+15. Real-Time Video Analytics: Object Tracking. Tech: YOLOv9, Deep SORT. Value: Live traffic and vehicle object detection.
+16. EquityLense: FinTech RAG Dashboard. Tech: Python, Streamlit. Value: PDF extraction to automatically calculate complex financial metrics (EPS, NVPS). Loom Video: https://www.loom.com/share/72c106516ac0411692358ae7b4fd083e
 """
 
 JOB_ANALYZE_DETAILS = """

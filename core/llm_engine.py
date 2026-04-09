@@ -20,7 +20,7 @@ class UpworkEngine:
     def __init__(self):
         # The new SDK automatically picks up GEMINI_API_KEY from your .env file
         self.client = genai.Client()
-        self.model_id = 'gemini-2.5-flash'
+        self.model_id = 'gemini-2.5-pro'
 
     def analyze_job(self, job_description: str) -> JobAnalysis:
         prompt = f"""

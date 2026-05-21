@@ -9,23 +9,25 @@ My Portfolio Projects (Categorized):
 3. InsightNode: Agentic GraphRAG Engine. Tech: Next.js 14, Neo4j, LangGraph, Ollama. Value: Converts text into 3D knowledge graphs.
 4. The Echo Directive: VoiceOps 3D Game AI. Tech: Godot 4, LangGraph, Python FastAPI, WebSockets. Value: Replaces NPC logic with autonomous agent reasoning.
 5. OmniReel: Autonomous AI Video Pipeline. Tech: Node.js, n8n, FFmpeg, Docker, BullMQ, Gemini, ElevenLabs. Value: Headless orchestration converting a Telegram prompt into a fully generated, programmatically animated (Ken Burns) cinematic vertical video. Loom Video: https://www.loom.com/share/167b205f6e454627a201181f1bda3527
+6. ClawRouter: AI Frontline Triage System. Tech: OpenClaw, Gemini, Next.js, Node.js, Docker, Telegram API. Value: Autonomous Telegram agent that categorizes queries and extracts high-value B2B lead data (Email, Size, Use Case) directly into a Dockerized Next.js database via strict JSON tool execution. Loom Video: https://www.loom.com/share/ed60012a57214f8e8cb10b71ea27a52f
+7. Autonomous Market Intelligence Agent: Multi-Agent Competitor Tracker. Tech: OpenManus, OpenClaw, Docker, Playwright stealth, Gemini API. Value: Deploys isolated sandboxes bypassing anti-bot protections to dynamically parse messy DOM text into strict JSON schemas, delivering synthesized intelligence reports via Telegram. Loom Video: https://www.loom.com/share/a5111a6583b64adeae3e2688630783b8
 
 [FULL-STACK SAAS & WEB]
-6. ContentFodge: AI Content SaaS. Tech: Gemini 2.0 Flash, Streamlit, YouTube API. Value: Automated transcription and ghostwriting of YouTube videos into viral blogs.
-7. wristTrade: iOS-First Trading PWA. Tech: Next.js, Tailwind, Binance WebSockets. Value: Sub-second live crypto price streaming.
-8. Mentora-AI: Career Guidance SaaS. Tech: Next.js, Python FastAPI, Machine Learning. Value: End-to-end platform predicting optimal career paths.
+8. ContentFodge: AI Content SaaS. Tech: Gemini 2.0 Flash, Streamlit, YouTube API. Value: Automated transcription and ghostwriting of YouTube videos into viral blogs.
+9. wristTrade: iOS-First Trading PWA. Tech: Next.js, Tailwind, Binance WebSockets. Value: Sub-second live crypto price streaming.
+10. Mentora-AI: Career Guidance SaaS. Tech: Next.js, Python FastAPI, Machine Learning. Value: End-to-end platform predicting optimal career paths.
 
 [AUTOMATION & DATA ENGINEERING]
-9. GhostCrawler: Stealth Web Scraper. Tech: Python, FastAPI, SeleniumBase. Value: Bypasses Cloudflare Turnstile and secure logins to extract 100% accurate data to Excel. Loom Video: https://www.loom.com/share/a8225a67759a4afa920bdc9e5ea13e89
-10. WhatsApp CRM: 2-Way Sheet Automation. Tech: Python, Node.js, n8n, Google Sheets, Meta API. Value: Cost-free, bidirectional WhatsApp CRM. Loom Video: https://www.loom.com/share/6a04dde30f9c46afa9fd0a518643baf8
-11. AutoLedger: Financial Automation. Tech: Python, Pandas, Streamlit. Value: Processes raw CSVs to auto-generate Excel reports with dynamic charts. Loom Video: https://www.loom.com/share/21a9f2d155cf4f0a8a5aac00517b162b
-12. Bet365 Scraper: High-Security Data Extraction. Tech: Python, SeleniumBase UC Mode, WebGL Spoofing. Value: Bypasses infinite loading spinners using hardware-level clicks and positional parsing.
-13. lead-scraper-pro: Automated B2B Lead Pipeline. Tech: Python, Playwright stealth, Regex, n8n. Value: Deduplicates multi-source leads, performs deep-site stealth enrichment for emails, and automatically pipes data to Google Sheets via n8n webhook. Loom Video: https://www.loom.com/share/dc042442dd5f495bb4c84d296e2cdb38
-14. MailForge: AI-Powered Workspace Copilot. Tech: Google Apps Script (GAS), Gemini API, Tailwind, Gmail/Sheets API. Value: Serverless extension with a custom UI that batch-processes scraped leads to auto-generate highly personalized cold email drafts natively in Gmail. Loom Video: https://www.loom.com/share/ebaf364939c642da8507f8e18eab9ee6
+11. GhostCrawler: Stealth Web Scraper. Tech: Python, FastAPI, SeleniumBase. Value: Bypasses Cloudflare Turnstile and secure logins to extract 100% accurate data to Excel. Loom Video: https://www.loom.com/share/a8225a67759a4afa920bdc9e5ea13e89
+12. WhatsApp CRM: 2-Way Sheet Automation. Tech: Python, Node.js, n8n, Google Sheets, Meta API. Value: Cost-free, bidirectional WhatsApp CRM. Loom Video: https://www.loom.com/share/6a04dde30f9c46afa9fd0a518643baf8
+13. AutoLedger: Financial Automation. Tech: Python, Pandas, Streamlit. Value: Processes raw CSVs to auto-generate Excel reports with dynamic charts. Loom Video: https://www.loom.com/share/21a9f2d155cf4f0a8a5aac00517b162b
+14. Bet365 Scraper: High-Security Data Extraction. Tech: Python, SeleniumBase UC Mode, WebGL Spoofing. Value: Bypasses infinite loading spinners using hardware-level clicks and positional parsing.
+15. lead-scraper-pro: Automated B2B Lead Pipeline. Tech: Python, Playwright stealth, Regex, n8n. Value: Deduplicates multi-source leads, performs deep-site stealth enrichment for emails, and automatically pipes data to Google Sheets via n8n webhook. Loom Video: https://www.loom.com/share/dc042442dd5f495bb4c84d296e2cdb38
+16. MailForge: AI-Powered Workspace Copilot. Tech: Google Apps Script (GAS), Gemini API, Tailwind, Gmail/Sheets API. Value: Serverless extension with a custom UI that batch-processes scraped leads to auto-generate highly personalized cold email drafts natively in Gmail. Loom Video: https://www.loom.com/share/ebaf364939c642da8507f8e18eab9ee6
 
 [COMPUTER VISION & RAG]
-15. Real-Time Video Analytics: Object Tracking. Tech: YOLOv9, Deep SORT. Value: Live traffic and vehicle object detection.
-16. EquityLense: FinTech RAG Dashboard. Tech: Python, Streamlit. Value: PDF extraction to automatically calculate complex financial metrics (EPS, NVPS). Loom Video: https://www.loom.com/share/72c106516ac0411692358ae7b4fd083e
+17. Real-Time Video Analytics: Object Tracking. Tech: YOLOv9, Deep SORT. Value: Live traffic and vehicle object detection.
+18. EquityLense: FinTech RAG Dashboard. Tech: Python, Streamlit. Value: PDF extraction to automatically calculate complex financial metrics (EPS, NVPS). Loom Video: https://www.loom.com/share/72c106516ac0411692358ae7b4fd083e
 """
 
 JOB_ANALYZE_DETAILS = """
@@ -43,16 +45,23 @@ PROPOSAL_STRICT_RULES = """
 Strict Rules to follow:
 - NO MARKDOWN: Do NOT use markdown formatting like **bold** or *italics*. The output must be pure plain text ready to copy and paste directly into Upwork.
 - Greeting: Use the EXACT greeting provided in the prompt instructions.
+- Exact Structure Order: 
+  1. Greeting
+  2. The Loom Hook
+  3. Relevant Project Details (separated by blank lines)
+  4. Capability Statement
+  5. Call to Action
+  6. Sign-off
+  7. P.S. Line
+- THE LOOM HOOK (CRITICAL): Start the very first line of the body immediately with the text: "Similar system I recently deployed: [Insert Exact Loom Video URL]" using the single best matching video from my portfolio. Do not add any conversational filler before it.
+- Relevant Project Details: Below the hook, detail 1 to 2 matching projects from my portfolio. Do NOT use bullet points (- or *). Write them as standalone paragraphs separated by a single blank line. Format exactly as: "[Project Name]: [One very brief sentence explaining alignment]."
+- Capability Statement: Below the project details, state clearly and confidently that I am fully capable of completing this specific project successfully based on my past work.
+- Call to Action: Follow immediately with a direct request telling the client to send me a message so we can discuss the details further.
 - No Fluff or Desperation: Get straight to the point. Do NOT use filler phrases like 'I have read your requirements,' 'I fully understand,' or 'Please consider my proposal.'
 - No Questions: Do NOT ask any questions about the project or job description in this proposal.
-- Answer Client Questions: If the job description asks specific questions, answer them directly and concisely. Format these answers clearly before the Call to Action.
-- Keep it simple: Do not explain the development process, step-by-step plans, or list out technologies randomly.
-- Tone: Confident, direct, and professional. State clearly that I am fully capable of completing this project successfully based on my past work.
-- THE "SHOW, DON'T TELL" HOOK (CRITICAL): Do not just list matching projects. Instead, identify the SINGLE best matching project from my portfolio. Write a sentence explaining that I recently built a similar solution. Then, you MUST include the Loom Video link for that specific project. Format it exactly like this: "To give you a clear idea of how I build this, I recorded a quick walkthrough of a similar system I recently deployed: [Insert Exact Loom Video URL]"
-- Secondary Matches: If there are 1 or 2 other relevant projects, list them briefly below the video link using a simple bullet point format "- [Project Name]: [One very brief sentence explaining alignment]". Do absolutely no large descriptions.
-- Call to Action: End by simply telling the client to send me a message so we can discuss the details further.
+- Answer Client Questions: If the job description asks specific questions, answer them directly and concisely right before the capability statement.
 - Sign-off: End the proposal exactly with:
   Best regards,
   Kethaka Ranasinghe
-- P.S. Line: Add a compelling "P.S." line at the very bottom (after the sign-off). Make it highly relevant to the job if possible.
+- P.S. Line: Add a compelling "P.S." line at the very bottom (after the sign-off). Make it highly relevant to the job's technical hurdles or edge cases.
 """

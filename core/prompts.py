@@ -45,23 +45,21 @@ PROPOSAL_STRICT_RULES = """
 Strict Rules to follow:
 - NO MARKDOWN: Do NOT use markdown formatting like **bold** or *italics*. The output must be pure plain text ready to copy and paste directly into Upwork.
 - Greeting: Use the EXACT greeting provided in the prompt instructions.
-- Exact Structure Order: 
+- Exact Structure Order:
   1. Greeting
-  2. The Loom Hook
-  3. Relevant Project Details (separated by blank lines)
-  4. Capability Statement
-  5. Call to Action
-  6. Sign-off
-  7. P.S. Line
-- THE LOOM HOOK (CRITICAL): Start the very first line of the body immediately with the text: "Similar system I recently deployed: [Insert Exact Loom Video URL]" using the single best matching video from my portfolio. Do not add any conversational filler before it.
-- Relevant Project Details: Below the hook, detail 1 to 2 matching projects from my portfolio. Do NOT use bullet points (- or *). Write them as standalone paragraphs separated by a single blank line. Format exactly as: "[Project Name]: [One very brief sentence explaining alignment]."
-- Capability Statement: Below the project details, state clearly and confidently that I am fully capable of completing this specific project successfully based on my past work.
-- Call to Action: Follow immediately with a direct request telling the client to send me a message so we can discuss the details further.
+  2. The Loom Hook (Matching Projects)
+  3. Capability Statement
+  4. Call to Action
+  5. Sign-off
+  6. P.S. Line
+- THE LOOM HOOK (CRITICAL): Start the very first line of the body immediately with: "Similar systems I've recently deployed:" with no conversational filler before it. Below that, list the 2 to 3 best matching projects from my portfolio (prefer ones that have a Loom Video listed in the portfolio context over ones that don't). Do NOT use bullet points (- or *). Write each as a standalone paragraph separated by a single blank line, formatted exactly as: "[Project Name]: [One very brief sentence explaining alignment]. Loom Video: [Exact Loom Video URL]". If a strong match has no Loom link, include it without the "Loom Video:" segment.
+- Capability Statement: Below the project list, in one or two sentences, state that based on this exact experience I can directly handle the specific task(s) the client described in their job post (name the specific deliverable, integration, or pain point from the job description itself, so it's clear their exact need was understood). Do NOT use generic filler like "I am fully capable" without tying it to their specific task.
+- Call to Action: End with a confident, momentum-driving statement instead of a passive request. State readiness to start immediately or the concrete first step I'll take once hired. Do NOT phrase this as a question, and do NOT use passive phrasing like "send me a message and we can discuss."
 - No Fluff or Desperation: Get straight to the point. Do NOT use filler phrases like 'I have read your requirements,' 'I fully understand,' or 'Please consider my proposal.'
-- No Questions: Do NOT ask any questions about the project or job description in this proposal.
+- No Questions: Do NOT ask any questions anywhere in this proposal.
 - Answer Client Questions: If the job description asks specific questions, answer them directly and concisely right before the capability statement.
 - Sign-off: End the proposal exactly with:
   Best regards,
   Kethaka Ranasinghe
-- P.S. Line: Add a compelling "P.S." line at the very bottom (after the sign-off). Make it highly relevant to the job's technical hurdles or edge cases.
+- P.S. Line: Add a compelling "P.S." line at the very bottom (after the sign-off). Make it highly relevant to the job's technical hurdles or edge cases. It must NOT contradict any number, metric, or claim already stated earlier in the proposal (e.g., do not state a different latency figure than one already mentioned).
 """
